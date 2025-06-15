@@ -21,6 +21,6 @@
 * predictions.csv: Final churn scores for test data
 * telco_train.csv , telco_test.csv: Data used
 
-[Project Link of google drive](https://drive.google.com/drive/folders/1KLmIDNLnMlJdwysBVGXxydzmXZfkYp9j?usp=drive_link)
-
+[Project Link ](https://drive.google.com/drive/folders/1KLmIDNLnMlJdwysBVGXxydzmXZfkYp9j?usp=drive_link)
+[video presentation](https://drive.google.com/drive/folders/1WVVanajXKEb1Yn4qtb_l34dVMO1PkIS5?usp=drive_link)
 
