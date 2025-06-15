@@ -21,6 +21,6 @@ DS-2: Stop the Churn – Churn Prediction Project
 * predictions.csv: Final churn scores for test data
 * telco_train.csv , telco_test.csv: Data used
 
-[Project Link of google drive](https://drive.google.com/file/d/1kNyr1Yklha3SrEy3JelouUvnB0UP1aAU/view?usp=drive_link)
+[Project Link of google drive](https://drive.google.com/drive/folders/1KLmIDNLnMlJdwysBVGXxydzmXZfkYp9j?usp=drive_link)
 
 
