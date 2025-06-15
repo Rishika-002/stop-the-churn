@@ -1,4 +1,4 @@
-DS-2: Stop the Churn – Churn Prediction Project
+## DS-2: Stop the Churn Prediction Project
 
 # Overview
 * Predicts whether a customer will churn in the next 30 days using behavioral and billing data.
